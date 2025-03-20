@@ -1,0 +1,6 @@
+core:
+  - name: Andres
+    profile_url: https://twitter.com/aalmiray
+    picture: andres.png
+    short_desc: Developer Advocate at Oracle
+

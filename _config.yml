@@ -1,0 +1,20 @@
+# Site settings
+title: hack-commit-push
+email: organization@hack-commit-pu.sh
+description: |
+  hack.commit.push
+date: 13th June 2025
+tagline: One Day to Contribute to Open Source
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+default_lang: "en"
+
+twitter_username: hackcommitpush
+github_username:
+github_url: https://github.com/hack-commit-push/winterthru2025/
+youtube_channel: https://www.youtube.com/channel/UCMTI7EciSV3AF_g_NjvMg0A
+linkedin_url: https://www.linkedin.com/groups/13966860/
+
+registration_link: https://hack-commit-push.devcommunity.events/event/hcpw2025/
+# Build settings
+markdown: kramdown

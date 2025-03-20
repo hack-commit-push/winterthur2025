@@ -1,0 +1,31 @@
+<section class="bg-primary" id="about">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-sm-offset-2 text-center">
+                <h2 class="section-heading">About</h2>
+
+                <hr />
+
+                <p class="text-left">
+                    We want to invite developers to hack together.<br />
+                    Let us support Free/Open Source projects by fixing issues
+                    and adding new features and most of all learn and have fun.
+                </p>
+
+                <p class="text-left">The event is open to every developer, regardless of their experience.<br />
+                    We plan to have introduction workshops at the beginning of the day.
+                </p>
+
+                <p class="text-left">
+                    Each contribution counts, regardless of its nature (design, documentation, code)!
+                </p>
+
+                {% if site.registration_link %}
+                    <p class="text-left">
+                        <a rel="noopener" target="_blank" href="{{site.registration_link}}">Join us now <i class="fa fa-external-link" aria-hidden="true"></i></a>
+                    </p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>
