@@ -1,6 +1,13 @@
 core:
-  - name: Andres
+  - name: Patrick Scheller
+    profile_url: https://www.linkedin.com/in/patrick-scheller/
+    picture: patlecat_profile_small.jpg
+    short_desc: Project Management Consultant + CTO to rent
+  - name: Andres Almiray
     profile_url: https://twitter.com/aalmiray
     picture: andres.png
     short_desc: Developer Advocate at Oracle
-
+  - name: Patrick Baumgartner
+    profile_url: https://www.linkedin.com/in/patbaumgartner/
+    picture: patrick-baumgartner_farbig2_small.jpg
+    short_desc: Software Crafter at 42talents
