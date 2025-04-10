@@ -24,7 +24,7 @@
 #  contributions: #links to contributions (once the event is done)
 #   - https://example.com/my/contribution # can be a commit, a pull/merge request...
 
-- name: JReleaser
+- name: JReleaser (Java)
   url: https://jreleaser.org/
   description: JReleaser is a release automation tool. Its goal is to simplify creating releases and publishing artifacts to multiple package managers while providing customizable options.
   leads:
@@ -32,5 +32,14 @@
       spoken_languages:
         - EN
         - ES
+  contributions:
+- name: Spring Batch (Java)
+  url: https://spring.io/projects/spring-batch
+  description: Spring Batch is a lightweight, comprehensive batch framework designed to enable the development of robust batch applications vital for the daily operations of enterprise systems.
+  leads:
+    - name: Mahmoud Ben Hassine
+      spoken_languages:
+        - EN
+        - FR
   contributions:
 

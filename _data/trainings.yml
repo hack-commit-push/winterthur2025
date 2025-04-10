@@ -15,3 +15,11 @@
 #      spoken_languages:
 #        - EN
 #        - DE
+- topic: Git / GitHub
+  description: For those unfamiliar with Git we offer a short introduction, like documenters, designers and other non-developers
+  trainers:
+    - name: tbd
+      profile_url: https://github.com/
+      spoken_languages:
+        - EN
+        - DE
