@@ -16,9 +16,9 @@
 #        - EN
 #        - DE
 - topic: Git / GitHub
-  description: For those unfamiliar with Git we offer a short introduction, like documenters, designers and other non-developers
+  description: For those unfamiliar with Git we offer a short introduction, like for documenters, designers and other non-developers
   trainers:
-    - name: tbd
+    - name: Urs Fässler
       profile_url: https://github.com/
       spoken_languages:
         - EN
