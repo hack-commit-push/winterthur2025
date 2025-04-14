@@ -42,4 +42,22 @@
         - EN
         - FR
   contributions:
-
+- name: AssertJ (Java)
+  url: https://assertj.github.io/doc/
+  description: AssertJ is a Java library that provides a rich set of assertions and truly helpful error messages, improves test code readability, and is designed to be super easy to use within your favorite IDE.
+  leads:
+    - name: Stefano Cordio
+      profile_url: https://github.com/scordio
+      spoken_languages:
+        - EN
+        - IT
+  contributions:
+- name: Spring Batch Notion
+  url: https://github.com/spring-projects/spring-batch-extensions/tree/main/spring-batch-notion
+  description: A Spring Batch extension module for Notion.
+  leads:
+    - name: Stefano Cordio
+      profile_url: https://github.com/scordio
+      spoken_languages:
+        - EN
+        - IT
