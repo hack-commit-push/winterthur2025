@@ -52,7 +52,7 @@
         - EN
         - IT
   contributions:
-- name: Spring Batch Notion
+- name: Spring Batch Notion (Java)
   url: https://github.com/spring-projects/spring-batch-extensions/tree/main/spring-batch-notion
   description: A Spring Batch extension module for Notion.
   leads:
