@@ -52,3 +52,13 @@
         - EN
         - IT
   contributions:
+- name: Cucumber (C++)
+  url: https://github.com/cucumber/cucumber-cpp
+  description: Cucumber lets you write automated tests in plain language. Cucumber-Cpp allows Cucumber to support step definitions written in C++.
+  leads:
+    - name: Urs Fässler
+      profile_url: https://iqilio.ch/team/urs-fassler/
+      spoken_languages:
+        - EN
+        - DE
+  contributions:
