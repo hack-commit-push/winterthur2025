@@ -62,3 +62,13 @@
         - EN
         - DE
   contributions:
+- name: Harbor CLI (Go)
+  url: https://github.com/goharbor/harbor-cli
+  description: Harbor CLI is a command-line tool that facilitates seamless interaction with the Harbor container registry. It simplifies various tasks such as creating, updating, and managing projects, registries, and other resources in Harbor.
+  leads:
+    - name: Vadim Bauer
+      profile_url: https://github.com/vad1mo
+      spoken_languages:
+        - EN
+        - DE
+  contributions:
