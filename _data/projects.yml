@@ -81,4 +81,14 @@
       spoken_languages:
         - EN
         - DE
+- name: vmlens (Java)
+  url: https://github.com/vmlens/vmlens
+  description: vmlens lets you test multi-threaded, concurrent java
+  leads:
+    - name: Thomas Krieger
+      profile_url: https://github.com/ThomasKrieger
+      spoken_languages:
+        - EN
+        - DE
+
   contributions:
