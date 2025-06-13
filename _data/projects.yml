@@ -52,6 +52,9 @@
         - EN
         - IT
   contributions:
+    - https://github.com/assertj/assertj/issues/2870
+    - https://github.com/assertj/assertj/pull/3853
+      https://github.com/assertj/assertj/pull/3854
 - name: Cucumber (C++)
   url: https://github.com/cucumber/cucumber-cpp
   description: Cucumber lets you write automated tests in plain language. Cucumber-Cpp allows Cucumber to support step definitions written in C++.
